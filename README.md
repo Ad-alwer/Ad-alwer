@@ -10,6 +10,13 @@
 - 💻 I'm using  `Vue JS`
 - 🏫 I'm learning `Git & Github` Sabzlearn course
 
+<h2>Activities</h2>
+
+-  Learning `Git & Github` course <img width="70%" align="right"  height="25px" src="https://github.com/Ad-alwer/Ad-alwer/assets/66328978/667e8337-9c71-42eb-b637-98c358028c5f">
+-  Coding `Music` project <img width="40%" height="25px" align="right" src="https://github.com/Ad-alwer/Ad-alwer/assets/66328978/667e8337-9c71-42eb-b637-98c358028c5f">
+- Learning `JS Projects` course <img width="25%" align="right"  height="25px" src="https://github.com/Ad-alwer/Ad-alwer/assets/66328978/667e8337-9c71-42eb-b637-98c358028c5f">
+
+
 <h2>Personal info</h2>
 
 ```Javascript
@@ -21,4 +28,7 @@ life:"Soccer",
 instagram:'im.ali_ad',
 }
 ```
+
+
+
 
