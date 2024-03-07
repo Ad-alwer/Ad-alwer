@@ -7,5 +7,18 @@
 <h2> About me</h2>
 
 - 👋 Hi I'm Alwer
-- 💻 I'm using Vue JS
-- 🏫 I'm learning Git & Github sabzlearn course
+- 💻 I'm using  `Vue JS`
+- 🏫 I'm learning `Git & Github` Sabzlearn course
+
+<h2>Personal info</h2>
+
+```Javascript
+const personalInfo = {
+name:'Ali Dodangeh',
+birthday:'18 Jan 2006',
+exercise:true,
+life:"Soccer",
+instagram:'im.ali_ad',
+}
+```
+
