@@ -14,7 +14,7 @@
 
 -  Learning `Git & Github` <img width="70%" align="right"  height="20px"  src="https://github.com/Ad-alwer/Ad-alwer/assets/66328978/667e8337-9c71-42eb-b637-98c358028c5f">
 -  Coding `Music` project <img width="40%" height="20px" align="right" src="https://github.com/Ad-alwer/Ad-alwer/assets/66328978/667e8337-9c71-42eb-b637-98c358028c5f">
- - Learning `JS Projects` course <img width="25%" align="right"  height="20px" src="https://github.com/Ad-alwer/Ad-alwer/assets/66328978/667e8337-9c71-42eb-b637-98c358028c5f">
+ - Learning `JS Projects` course <img width="30%" align="right"  height="20px" src="https://github.com/Ad-alwer/Ad-alwer/assets/66328978/667e8337-9c71-42eb-b637-98c358028c5f">
 
 
 
@@ -86,7 +86,11 @@ instagram:'im.ali_ad',
   </a>
 </p> 
 
-
+<br>
+<br>
+<p align="center">
+ <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+</p>
 
 
 
