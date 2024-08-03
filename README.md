@@ -13,9 +13,6 @@
 <h2> 👨‍💻 Activities</h2>
 <br>
 
--  Coding `Music` project <img width="60%" height="14px" align="right" src="https://github.com/Ad-alwer/Ad-alwer/assets/66328978/667e8337-9c71-42eb-b637-98c358028c5f">
-
-
  - Learning `JS Projects` course <img width="20%" align="right"  height="14px" src="https://github.com/Ad-alwer/Ad-alwer/assets/66328978/667e8337-9c71-42eb-b637-98c358028c5f">
 
 <br>
