@@ -11,6 +11,11 @@
 
 <h2> 🖋️ About me</h2>
 
+<P align="center" width="100%">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Ad-alwer&data=followers,repositories,stars,commits&theme=nautilus"  />
+<P/>
+
+
 - 👋 Hi I'm Alwer
 - 💻 I'm using  `Vue JS`
 - 🏫 I'm waching `JS Expert Projects` Sabzlearn course
