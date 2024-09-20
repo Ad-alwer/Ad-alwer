@@ -1,11 +1,9 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FD91&center=true&vCenter=true&random=false&width=1200&lines=Hi+ I'm+Alwer+%F0%9F%91%8B;I+am++a+Frontend+Developer" alt="Typing SVG"   />
-
-
-
 <P align="center" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&lines=Hi+I'm+Alwer+👋;+I+am++a+Frontend+Developer+💻;" />
+<P/>
+  <P align="center" width="100%">
   <img src="https://visitcount.itsvg.in/api?id=Ad-alwer&label=Profile%20Views&pretty=false"  />
 <P/>
-
 
 
 
@@ -18,14 +16,9 @@
 
 - 👋 Hi I'm Alwer
 - 💻 I'm using  `Vue JS`
-- 🏫 I'm waching `JS Expert Projects` Sabzlearn course
-<br>
-<h2> 👨‍💻 Activities</h2>
+- 🏫 I'm waching `Bootstrap` Sabzlearn course
 <br>
 
- - Learning `JS Projects` course <img width="40%" align="right"  height="14px" src="https://github.com/Ad-alwer/Ad-alwer/assets/66328978/667e8337-9c71-42eb-b637-98c358028c5f">
-
-<br>
 <h2> 🙎‍♂️ Personal info</h2>
 
 ```Javascript
