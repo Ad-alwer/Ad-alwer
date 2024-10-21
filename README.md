@@ -16,7 +16,7 @@
 
 - 👋 Hi I'm Alwer
 - 💻 I'm using  `Vue JS`
-- 🏫 I'm waching `Bootstrap` Sabzlearn course
+- 🏫 I'm waching `Vue 3 and Nuxt` Codeyad course
 <br>
 
 <h2> 🙎‍♂️ Personal info</h2>
