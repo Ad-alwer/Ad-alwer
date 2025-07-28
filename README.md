@@ -34,38 +34,25 @@ instagram:'im.ali_ad',
 <br>
 <h2> 🔧 Skills</h2>
 
+<P align="center" width="50%">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,json,mysql,powershell,markdown&includeNames=true&theme=nautilus"  />
+<P/>
+  
+  <P align="center" width="50%">
+  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,nuxt,bootstrap,express,node&includeNames=true&theme=nautilus"  />
+<P/>
+  
+  <P align="center" width="50%">
+  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,mongodb,redis,nginx,prettier&includeNames=true&theme=nautilus"  />
+<P/>
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Vue.js](https://img.shields.io/badge/Vue%20JS-2F2F2F?style=flat&logo=vuedotjs&logoColor=4FC08D)
-  ![Express.js](https://img.shields.io/badge/Express%20JS-2F2F2F?style=flat&logo=express&logoColor=%2361DAFB)
+  <P align="center" width="50%">
+  <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=nautilus"  />
+<P/>
 
-- 📖 &nbsp;
-  ![Chart.js](https://img.shields.io/badge/chart.js-2F2F2F?style=flat&&logo=chart.js&logoColor=F5788D)
-  ![Nodemon](https://img.shields.io/badge/Nodemon-2F2F2F?style=flat&&logo=nodemon&logoColor=%BBDEAD)
-  ![JWT](https://img.shields.io/badge/JWT-2F2F2F?style=flat&&logo=JSON%20web%20tokens&logoColor=%BBDEAD)
-   ![Axios](https://img.shields.io/badge/Axios-2F2F2F?style=flat&&logo=axios&logoColor=darkslateblue)
-  
-  
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![AWS](https://img.shields.io/badge/AWS-2F2F2F?style=flat&&logo=amazon-aws&logoColor=gold)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  ![NPM](https://img.shields.io/badge/NPM-2F2F2F?style=flat&&logo=npm&logoColor=red)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![WebStorm](https://img.shields.io/badge/Webstorm-2F2F2F?style=flat&&logo=webstorm&logoColor=skyblue)
-<br />
+
+
+
 
 <h2> 📱 Social</h2>
  <p align="center">
