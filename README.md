@@ -26,7 +26,6 @@ name:'Ali Dodangeh',
 birthday:'18 Jan 2006',
 exercise:true,
 life:"Soccer",
-instagram:'im.ali_ad',
 }
 ```
 
