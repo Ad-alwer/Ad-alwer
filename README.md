@@ -15,7 +15,7 @@
 
 - 👋 Hi I'm Alwer
 - 💻 I'm using  `Nuxt JS` and `Node js`
-- 🏫 I'm waching `Network+` course
+- 🏫 I'm waching `Machine learning` course
 <br>
 
 <br>
